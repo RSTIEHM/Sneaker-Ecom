@@ -639,6 +639,7 @@ a.sidebar-nav-link:hover {
     display: grid;
     place-items: center;
     position: relative;
+    margin-bottom: 10px;
   }
 
   .lb-img {
